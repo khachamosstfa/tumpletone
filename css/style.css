@@ -604,7 +604,7 @@ margin-top: -10px;
     gap: 30px;
     justify-content: center;
     margin: 10px auto;
-    width: fit-content;
+    max-width: fit-content;
     font-variant: petite-caps;
 }
 
